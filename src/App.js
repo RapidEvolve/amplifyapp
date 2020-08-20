@@ -1,4 +1,4 @@
-//Add authentication flow
+//Add authentication flow (Take 2)
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
